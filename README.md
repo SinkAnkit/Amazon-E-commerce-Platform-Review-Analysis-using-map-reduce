@@ -1,8 +1,8 @@
 # Amazon-E-commerce-Platform-Review-Analysis-using-map-reduce
-*22MIS1128- SWE2011/Big Data Analytics DA 1 -- Ankit Singh*
+***22MIS1128- SWE2011/Big Data Analytics DA 1 -- Ankit Singh***
 
 
-*Datasets are provided in the Review_Input_Datasets file and Data folder*
+***Datasets are provided in the Review_Input_Datasets file and Data folder***
 
 **Overview:**
 This repository contains a project for performing big data analysis on Amazon e-commerce data using Hadoop MapReduce. The focus is on analyzing reviews, ratings, and keywords to enable future sentiment and predictive analysis.
