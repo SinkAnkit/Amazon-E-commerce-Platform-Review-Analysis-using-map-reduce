@@ -34,4 +34,3 @@ This repository contains a project for performing big data analysis on Amazon e-
 
 -   **Text Editor or IDE**: For editing and running scripts, use a text editor or IDE of your choice (e.g., VS Code, PyCharm).
 
-pre { font-family: "Liberation Mono", monospace; font-size: 10pt; background: transparent }p { line-height: 115%; margin-bottom: 0.1in; background: transparent }strong { font-weight: bold }
