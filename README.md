@@ -13,7 +13,7 @@ This repository contains a project for performing big data analysis on Amazon e-
     
     - Rating Analysis: Aggregating ratings to assess product performance.
     
-    - Keyword Extraction: Identifing and analyzing keywords from reviews to uncover common themes.
+    - Keyword Extraction: Identifying and analyzing keywords from reviews to uncover common themes.
     
     - Predictive Analysis: Using historical data to forecast future trends and sentiments.
 
@@ -23,7 +23,7 @@ This repository contains a project for performing big data analysis on Amazon e-
     
     - Rating Distribution: Aggregating and visualizing the distribution of product ratings.
     
-    - Keyword Analysis: Identifing frequently mentioned keywords in reviews to highlight key features or concerns.
+    - Keyword Analysis: Identifying frequently mentioned keywords in reviews to highlight key features or concerns.
 
 **Future Work:**
 
