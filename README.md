@@ -41,5 +41,5 @@ This repository contains a project for performing big data analysis on Amazon e-
 
 -   **Git**: For cloning the repository and managing project versions. 
 
--   **Text Editor or IDE**: For editing and running scripts, use a text editor or IDE of your choice (e.g., VS Code, PyCharm).
+-   **Text Editor or IDE**: For editing and running scripts.
 
