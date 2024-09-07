@@ -8,19 +8,28 @@
 This repository contains a project for performing big data analysis on Amazon e-commerce data using Hadoop MapReduce. The focus is on analyzing reviews, ratings, and keywords to enable future sentiment and predictive analysis.
 
 **Features:**
-    - Review Analysis: Extract and analyze customer reviews to understand sentiment and trends.
-    - Rating Analysis: Aggregate ratings to assess product performance.
-    - Keyword Extraction: Identify and analyze keywords from reviews to uncover common themes.
-    - Predictive Analysis: Use historical data to forecast future trends and sentiments.
+    
+    - Review Analysis: Extracting and analyzing customer reviews to understand sentiment and trends.
+    
+    - Rating Analysis: Aggregating ratings to assess product performance.
+    
+    - Keyword Extraction: Identifing and analyzing keywords from reviews to uncover common themes.
+    
+    - Predictive Analysis: Using historical data to forecast future trends and sentiments.
 
 **Examples:**
-    - Sentiment Analysis: Analyze customer reviews to determine overall satisfaction and sentiment.
-    - Rating Distribution: Aggregate and visualize the distribution of product ratings.
-    - Keyword Analysis: Identify frequently mentioned keywords in reviews to highlight key features or concerns.
+   
+    - Sentiment Analysis: Analyzing customer reviews to determine overall satisfaction and sentiment.
+    
+    - Rating Distribution: Aggregating and visualizing the distribution of product ratings.
+    
+    - Keyword Analysis: Identifing frequently mentioned keywords in reviews to highlight key features or concerns.
 
 **Future Work:**
-    - Enhanced Predictive Models: Integrate machine learning for more accurate predictions.
-    - Real-time Analysis: Develop capabilities for real-time analysis of incoming review data.
+
+    - Enhanced Predictive Models: Integrating machine learning for more accurate predictions.
+    
+    - Real-time Analysis: Developing capabilities for real-time analysis of incoming review data.
 
 **Pre-requisites and tools:**
 
