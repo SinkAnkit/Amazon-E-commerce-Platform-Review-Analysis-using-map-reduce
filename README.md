@@ -1,5 +1,4 @@
 # Amazon-E-commerce-Platform-Review-Analysis-using-map-reduce
-***22MIS1128- SWE2011/Big Data Analytics DA 1 -- Ankit Singh***
 
 
 ***Datasets are provided in the Review_Input_Datasets file and Data folder***
